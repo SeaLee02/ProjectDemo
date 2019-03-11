@@ -8,7 +8,10 @@ using System.Threading.Tasks;
 using System.Web.Http;
 
 namespace APIDemo.Controllers.Filter
-{
+{           
+    /// <summary>
+    /// 异常测试
+    /// </summary>
     //[MyExceptionFilter]
     public class MyExceptionController : ApiController
     {
