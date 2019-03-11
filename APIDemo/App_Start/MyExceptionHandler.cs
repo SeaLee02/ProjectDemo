@@ -14,7 +14,7 @@ using System.Web.Http.ExceptionHandling;
 namespace APIDemo.App_Start
 {
     /// <summary>
-    /// 异常处理程序
+    /// 异常处理程序 
     /// </summary>
     public class MyExceptionHandler : ExceptionHandler
     {
