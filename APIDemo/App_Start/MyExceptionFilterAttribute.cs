@@ -13,7 +13,7 @@ using System.Web.Http.Filters;
 namespace APIDemo.App_Start
 {
     /// <summary>
-    /// 异常过滤器
+    /// 异常过滤器 
     /// </summary>
     public class MyExceptionFilterAttribute : ExceptionFilterAttribute
     {
