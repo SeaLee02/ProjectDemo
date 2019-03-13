@@ -16,6 +16,9 @@ namespace APIDemo
 
             //注册全局异常
             //GlobalConfiguration.Configuration.Filters.Add(new MyExceptionFilterAttribute());
+
+            //注册全局模型过滤
+            //GlobalConfiguration.Configuration.Filters.Add(new MyActionFilterAttribute());
         }
     }
 }
